@@ -21,5 +21,5 @@ O projeto E-commerce Geek é parte de um desafio de Front End que faz parte do c
 1. Clone este repositório para a sua máquina local:
 
    ```bash
-   git clone https://https://github.com/RafaelMoreiraDev/Proz_API
+   git clone https://github.com/RafaelMoreiraDev/Proz_API.git
    ```
